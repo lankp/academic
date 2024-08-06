@@ -11,10 +11,14 @@ Below is a list of courses that I have taught.
 <tr>
 <td> Course </td> <td> Semester </td>
 </tr>
+  
 <tr>
 <td> MATH 241 - Calculus III </td> <td> Summer 2021, Summer 2022 </td>
 </tr>
 
+<tr>
+<td> MATH 241 - Calculus III </td> <td> Summer 2021, Summer 2022 </td>
+</tr>
 
 
 </table>
