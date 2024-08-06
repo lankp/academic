@@ -1,6 +1,6 @@
 ---
-layout: publications
-title: "Publications"
+layout: page
+title: "Research"
 ---
 
 - Published
