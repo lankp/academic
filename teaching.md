@@ -12,19 +12,11 @@ Below is a list of courses that I have taught.
 <td> Course </td> <td> Semester </td>
 </tr>
 <tr>
-<td> MATH 241 - Calculus III </td>
-<td>
-Summer 2021, Summer 2022
-</td>
-
-<tr>
-<td> Course </td> <td> Semester </td>
+<td> MATH 241 - Calculus III </td> <td> Summer 2021, Summer 2022 </td>
 </tr>
-<tr>
-<td> MATH 174 - Discrete structures for computer science </td>
-<td>
-Spring 2023
-</td>
+
+
+
 </table>
 
 | MATH 122 - Business Calculus | Spring 2021, Spring 2022, [Spring 2024](/teaching/USCMATH122S24/USCMATH122S24.html) |
