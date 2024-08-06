@@ -17,16 +17,27 @@ Below is a list of courses that I have taught.
 </tr>
 
 <tr>
-<td> MATH 241 - Calculus III </td> <td> Summer 2021, Summer 2022 </td>
+<td> MATH 174 - Discrete structures for computer science </td> <td> Spring 2023 </td>
 </tr>
 
+<tr>
+<td> MATH 122 - Business Calculus </td> <td> Spring 2021, Spring 2022, [Spring 2024](/teaching/USCMATH122S24/USCMATH122S24.html) </td>
+</tr>
+
+<tr>
+<td> MATH 115 - Precalculus </td> <td> Fall 2021 </td>
+</tr>
+
+<tr>
+<td> MATH 111 - Basic College Mathematics </td> <td> Fall 2021 (overload), Fall 2022 </td>
+</tr>
+
+<tr>
+<td> MATH 111i - Intensive Basic College Mathematics </td> <td> Fall 2023 </td>
+</tr>
 
 </table>
 
-| MATH 122 - Business Calculus | Spring 2021, Spring 2022, [Spring 2024](/teaching/USCMATH122S24/USCMATH122S24.html) |
-| MATH 115 - Precalculus | Fall 2021 |
-| MATH 111 - Basic College Mathematics | Fall 2021 (overload), Fall 2022 |
-| MATH 111i - Intensive Basic College Mathematics | Fall 2023 |
 
 
 
