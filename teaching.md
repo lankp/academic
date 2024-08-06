@@ -7,8 +7,9 @@ title:
 Below is a list of courses that I have taught. 
 
 * University of South Carolina
+  
 | Course | Semester |
-| *******| *********|
+| ******* | ********* |
 | MATH 241 - Calculus III | Summer 2021, Summer 2022 |
 | MATH 174 - Discrete structures for computer science | Spring 2023 |
 | MATH 122 - Business Calculus | Spring 2021, Spring 2022, [Spring 2024](/teaching/USCMATH122S24/USCMATH122S24.html)|
