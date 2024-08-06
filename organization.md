@@ -1,5 +1,7 @@
-Organization
-===
+---
+layout: page
+title: "Organization"
+---
 
 - AMS Special Session on Derived Categories, Arithmetic, and Geometry at the JMM in [January 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title)
 - SCAGNT Student seminar at the University of South Carolina
