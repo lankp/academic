@@ -8,7 +8,7 @@ Below is a list of courses that I have taught.
 ### University of South Carolina
 <table>
 <tr>
-<td> Course </td> <td> Semester </td>
+<td> *Course* </td> <td> *Semester* </td>
 </tr>
   
 <tr>
