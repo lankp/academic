@@ -5,7 +5,7 @@ title:
 
 Below is a list of courses that I have taught. 
 
-## University of South Carolina
+# University of South Carolina
 <table>
 <tr>
 <td> Course </td> <td> Semester </td>
@@ -38,7 +38,7 @@ Below is a list of courses that I have taught.
 </table>
 
 
-## University of New Mexico
+# University of New Mexico
 <table>
 <tr>
 <td> Course </td> <td> Semester </td>
