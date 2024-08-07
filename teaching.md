@@ -9,7 +9,7 @@ Below is a list of courses that I have taught.
 
 <table>
 <tr>
-<td> <b> Course </b> </td> <td> *Semester* </td>
+<td> <b> Course </b> </td> <td> <b> Semester </b> </td>
 </tr>
   
 <tr>
@@ -43,7 +43,7 @@ Below is a list of courses that I have taught.
 # University of New Mexico
 <table>
 <tr>
-<td> Course </td> <td> Semester </td>
+<td> <b> Course </b> </td> <td> <b> Semester <b/> </td>
 </tr>
   
 <tr>
