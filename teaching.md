@@ -7,6 +7,14 @@ Below is a list of courses that I have taught.
 
 ### University of South Carolina
 
+```json:table
+{
+    "items" : [
+      {"a": "11", "b": "22", "c": "33"}
+    ]
+}
+```
+
 <table>
 <tr>
 <td> <b> Course </b> </td> <td> <b> Semester </b> </td>
@@ -43,7 +51,7 @@ Below is a list of courses that I have taught.
 # University of New Mexico
 <table>
 <tr>
-<td> <b> Course </b> </td> <td> <b> Semester <b/> </td>
+<td> <b> Course </b> </td> <td> <b> Semester </b> </td>
 </tr>
   
 <tr>
