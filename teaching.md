@@ -39,12 +39,21 @@ Below is a list of courses that I have taught.
 </table>
 
 
+## University of South Carolina
+<table>
+<tr>
+<td> Course </td> <td> Semester </td>
+</tr>
+  
+<tr>
+<td> MATH 180 - Calculus I </td> <td> Summer 2020 </td>
+</tr>
 
+<tr>
+<td> MATH 121 - College Algebra </td> <td> Fall 2017 </td>
+</tr>
 
-University of New Mexico
-  - MATH 180 - Calculus I, Summer 2020
-  - MATH 121 - College Algebra, Fall 2017
-  - MATH 101, 102, 103 - Intermediate Algebra Part I, II, III, Fall 2018
-
-# Service
-
+<tr>
+<td> MATH 101, 102, 103 - Intermediate Algebra Part I, II, III </td> <td>  Fall 2018 </td>
+</tr>
+</table>
