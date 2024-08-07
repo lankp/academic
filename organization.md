@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: organization
 title: "Organization"
 ---
 
