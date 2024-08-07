@@ -1,9 +1,7 @@
 ---
-layout: home
+layout: research
 title: "Research"
 ---
-
-Much of my work focuses on the application of derived categories to problems in both algebraic geometry and commutative algebra. 
 
 # Published
 - Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
