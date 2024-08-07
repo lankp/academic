@@ -9,4 +9,4 @@ During April 2024, I was a research associate at the [Simons-Laufer Mathematical
 
 Much of my work focuses on the application of derived categories to problems in both algebraic geometry and commutative algebra.
 
-A copy of my CV may be found [here](/LankCV.pdf).
+A copy of my CV may be found [here](/assets/LankCV.pdf).
