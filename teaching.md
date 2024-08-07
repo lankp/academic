@@ -21,7 +21,7 @@ Below is a list of courses that I have taught.
 </tr>
 
 <tr>
-<td> MATH 122 - Business Calculus </td> <td> Spring 2021, Spring 2022, [Spring 2024](/teaching/USCMATH122S24/USCMATH122S24.html) </td>
+<td> MATH 122 - Business Calculus </td> <td> Spring 2021, Spring 2022, <a href='https://www.lankp.github.io/teaching/USCMATH122S24/USCMATH122S24.html'>Spring 2024</a> </td>
 </tr>
 
 <tr>
