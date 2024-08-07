@@ -3,10 +3,10 @@ layout: page
 title: 
 ---
 
-## Teaching
+# Teaching
 Below is a list of courses that I have taught. 
 
-# University of South Carolina
+## University of South Carolina
 <table>
 <tr>
 <td> Course </td> <td> Semester </td>
