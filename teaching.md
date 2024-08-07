@@ -39,7 +39,7 @@ Below is a list of courses that I have taught.
 </table>
 
 
-## University of South Carolina
+## University of New Mexico
 <table>
 <tr>
 <td> Course </td> <td> Semester </td>
