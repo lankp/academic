@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "About"
 ---
 
 I am a postdoctoral researcher for Department of Mathematics at [Università degli di Milano](https://www.unimi.it/en) under the supervision of [Amnon Neeman](https://www.unimi.it/en/ugov/person/amnon-neeman). 
