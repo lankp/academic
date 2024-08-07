@@ -3,9 +3,10 @@ layout: page
 title: "Research"
 ---
 
-- Published
-  - Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
-- Preprints
+## Published
+Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
+
+## Preprints
   - "Triangulated characterizations of singularities" joint with [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh); [arXiv version](https://arxiv.org/abs/2405.04389)
   - "Closedness of the singular locus and generation for derived categories" joint with Souvik Dey; [arXiv version](https://arxiv.org/abs/2403.19564)
   - "Dévissage for generation in derived categories" joint with Souvik Dey; [arXiv version](http://arxiv.org/abs/2401.13661)
