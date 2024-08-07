@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Teaching
 ---
 
 Below is a list of courses that I have taught. 
