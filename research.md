@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 # Published
-1. Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
+- Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
 
 # Preprints
 1. "Triangulated characterizations of singularities" joint with [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh); [arXiv version](https://arxiv.org/abs/2405.04389)
