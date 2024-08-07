@@ -12,6 +12,7 @@ Much of my work focuses on the application of derived categories to problems in 
 A copy of my CV may be found [here](/assets/LankCV.pdf).
 
 Email: plankmathematics 'at' gmail 'dot' com
+
 [arXiv](https://arxiv.org/a/0000-0003-1593-2823.html)
 [Google Scholar](https://scholar.google.com/citations?user=JDLS-0oAAAAJ&hl=en&oi=ao)
 [Orchid](https://orcid.org/0000-0002-2367-2892)
