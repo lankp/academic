@@ -10,3 +10,10 @@ During April 2024, I was a research associate at the [Simons-Laufer Mathematical
 Much of my work focuses on the application of derived categories to problems in both algebraic geometry and commutative algebra.
 
 A copy of my CV may be found [here](/assets/LankCV.pdf).
+
+[arXiv](https://arxiv.org/a/0000-0003-1593-2823.html)
+[Google Scholar](https://scholar.google.com/citations?user=JDLS-0oAAAAJ&hl=en&oi=ao)
+[Orchid](https://orcid.org/0000-0002-2367-2892)
+[Hithub](https://github.com/lankp)
+
+Email: plankmathematics 'at' gmail 'dot' com
