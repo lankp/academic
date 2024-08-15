@@ -1,6 +1,7 @@
 menu:
 - {name: 'home', url: '/index'}
 - {name: 'research', url: '/research'}
+- {name: 'talks', url: '/talks'}
 - {name: 'organization', url: '/organization'}
 - {name: 'teaching', url: '/teaching'}
 
