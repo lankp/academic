@@ -2,7 +2,7 @@
 layout: talks
 title: "Talks"
 ---
-- Topology seminar, Universit\"{a}t Hamburg, TBA in Spring 2025
+- Topology seminar, Universität Hamburg, TBA in Spring 2025
 - Algebra seminar, Charles University (Univerzita Karlova), February 2025
 - Algebraic Geometry Seminar, Purdue Uiversity, October 2024
 - AMS Special Session on Commutative Algebra and its Applications, Howard University, Washington, DC, April 2024
