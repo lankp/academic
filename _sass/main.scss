@@ -1,7 +1,7 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-$linkColor: #212529 !important;
+$linkColor: #ADD8E6 !important;
 
 body {
   background: $backgroundColor;
@@ -9,7 +9,12 @@ body {
   font-family: $bodyFont;
 }
 
-a {
-  color: #ADD8E6; // Replace with your desired color
-  text-decoration: none; // Optional: removes underline
+body a {
+  text-decoration: none;
+  
+  &:hover,
+  &:visited,
+  &:active {
+    text-decoration: none;
+  }
 }
