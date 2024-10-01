@@ -14,5 +14,11 @@ body a {
 }
 
 a {
-    text-decoration: none; /* Removes the underline */
+  text-decoration: none;
+  
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration: none;
+  }
 }
