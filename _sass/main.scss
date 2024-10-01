@@ -10,11 +10,14 @@ body {
 }
 
 body a {
-  text-decoration: none;
+  color: #00008B; // Dark blue color
+  text-decoration: none; // Removes underline
   
-  &:hover,
-  &:visited,
-  &:active {
-    text-decoration: none;
+  &:hover {
+    color: lighten(#00008B, 20%); // Lighter shade on hover (optional)
+  }
+  
+  &:visited {
+    color: #00008B; // Keep visited links the same color (optional)
   }
 }
