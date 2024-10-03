@@ -7,6 +7,7 @@ Published
 - Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
 
 Preprints
+- "Descent and generation for noncommutative coherent algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul); [arXiv version](https://arxiv.org/abs/2410.01785)
 - "Classification and nonexistence results for tensor t-structures on derived categories of schemes" joint with [Rudradip Biswas](https://sites.google.com/view/rudradip-biswas/home), [Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), and [Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756); [arXiv version](https://arxiv.org/abs/2404.08578)
 - "Approximability and Rouquier dimension for noncommuative algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul); [arXiv version](https://arxiv.org/abs/2408.04561)
 - "Triangulated characterizations of singularities" joint with [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh); [arXiv version](https://arxiv.org/abs/2405.04389)
