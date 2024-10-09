@@ -17,6 +17,6 @@ Email: plankmathematics 'at' gmail 'dot' com
 
 [Google Scholar](https://scholar.google.com/citations?user=JDLS-0oAAAAJ&hl=en&oi=ao)
 
-[Orchid](https://orcid.org/0000-0002-2367-2892)
+[Orcid](https://orcid.org/0000-0002-2367-2892)
 
 [GitHub](https://github.com/lankp)
