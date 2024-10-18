@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 Published
-- "Approximation by perfect complexes detects Rouquier dimension" joint with [Noah Olander](https://noaholander.github.io/); [arXiv version](https://arxiv.org/abs/2401.10146), accepted to Mosc. Math. J. 
+- Approximation by perfect complexes detects Rouquier dimension, joint with [Noah Olander](https://noaholander.github.io/); [arXiv version](https://arxiv.org/abs/2401.10146), accepted to Mosc. Math. J. 
 - Descent conditions for generation in derived categories, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
 
 Preprints
