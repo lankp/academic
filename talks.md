@@ -4,6 +4,7 @@ title: "Talks"
 ---
 - Topology seminar, Universität Hamburg, TBA in Spring 2025
 - Algebra seminar, Charles University (Univerzita Karlova), February 2025
+- Algebraic Geometry Northeastern Section (AGNES), Dartmouth University, November 2024
 - Algebraic Geometry Seminar, Purdue Uiversity, October 2024
 - AMS Special Session on Commutative Algebra and its Applications, Howard University, Washington, DC, April 2024
 - COMA/NAG Joint Graduate Student Seminar for Simons-Laufer Mathematical Sciences Institute, March 2024
