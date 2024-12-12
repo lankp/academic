@@ -20,4 +20,4 @@ Preprints
 
 In Preparation
 - "Perfect complexes and proper descent for algebraic stacks" joint with [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), and [Alicia Lamarche](https://alicialamarche.com/about)
-
+- "Characterizations for rational pairs \'{a} la Schwede-Takagi and Kollár-Kovács" joint with [Peter McDonald](https://sites.google.com/view/petermcdonald/home) and [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)
