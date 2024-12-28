@@ -7,6 +7,7 @@ Published
 - *Approximation by perfect complexes detects Rouquier dimension*, joint with [Noah Olander](https://noaholander.github.io/); [arXiv version](https://arxiv.org/abs/2401.10146); accepted
 to Mosc. Math. J.
 - *Descent conditions for generation in derived categories*, [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)
+- *Generation and dimension for derived categories*, PhD thesis, 2024
 
 Preprints
 - "Descent and generation for noncommutative coherent algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul); [arXiv version](https://arxiv.org/abs/2410.01785)
