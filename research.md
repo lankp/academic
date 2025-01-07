@@ -10,7 +10,7 @@ to Mosc. Math. J.
 - *Generation and dimension for derived categories*, PhD thesis, 2024
 
 Preprints
-"Derived characterizations for rational pairs à la Schwede-Takagi and Kollár-Kovács" joint with [Peter McDonald](https://sites.google.com/view/petermcdonald/home) and [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh); [arXiv version](https://arxiv.org/abs/2501.02783) 
+- "Derived characterizations for rational pairs à la Schwede-Takagi and Kollár-Kovács" joint with [Peter McDonald](https://sites.google.com/view/petermcdonald/home) and [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh); [arXiv version](https://arxiv.org/abs/2501.02783) 
 - "Descent and generation for noncommutative coherent algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul); [arXiv version](https://arxiv.org/abs/2410.01785)
 - "Classification and nonexistence results for tensor t-structures on derived categories of schemes" joint with [Rudradip Biswas](https://sites.google.com/view/rudradip-biswas/home), [Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), and [Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756); [arXiv version](https://arxiv.org/abs/2404.08578)
 - "Approximability and Rouquier dimension for noncommuative algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul); [arXiv version](https://arxiv.org/abs/2408.04561)
