@@ -23,3 +23,7 @@ Preprints
 
 In Preparation
 - "Perfect complexes and proper descent for algebraic stacks" joint with [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), and [Alicia Lamarche](https://alicialamarche.com/about)
+- "Integral transforms on singularity categories for Noetherian schemes" joint with [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
+- "Mayer-Vietoris squares and generation for monoidal triangulated categories" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
+- "Compact objects detect big generators for weak approximable triangulated categories" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
+- "Regular locus and singularity categories for noncommutative algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
