@@ -2,10 +2,11 @@
 layout: schedule
 title: "Schedule"
 ---
-* date - Name
-- Title:
-- Abstract:
+> date - Name  
+> 'title' - abstract about ensfknslkfsldfks
 
-* date - Name
-- Title:
-- Abstract:
+> date - Name  
+> 'title' - abstract about ensfknslkfsldfks
+
+> date - Name  
+> 'title' - abstract about ensfknslkfsldfks
