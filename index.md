@@ -2,11 +2,8 @@
 layout: home
 title: "About"
 ---
-
-This is an online seminar tailored for young researchers, e.g. postdocs and graduate students, interested in triangulated categories arising in noncommutative flavors of algebra and geometry. It is a biweekly event with fifty minute talks coupled with upwards of ten minutes for questions. Unless otherwise specified, we run the seminar on DATE/TIME through MEDIUM.
-
-If you are interested in giving a talk, then please reach out to one of the organizers. See [here](https://danceseminar.github.io/contact) for contact information.
-
-A schedule of past, current, and future talks can be found [here](https://danceseminar.github.io/schedule).
-
-Fill out a registeration form HERE to attend the seminar.
+This is the website for the D.A.N.C.E. (Derived and Non-Commutative Enthousiasts) seminar.
+It is an online seminar aimed at young researchers, e.g. graduate students and postdoctoral researchers, interested in triangulated categories arising in noncommutative algebraic geometry (quite roughly interpreted).
+The seminar is a biweekly event with ~50 minute talks and ~10 minutes for questions, see the schedule [here](https://danceseminar.github.io/schedule).
+Unless otherwise specified, we run the seminar on DATE/TIME through MEDIUM.
+Please fill out a registeration form HERE to attend the seminar.
