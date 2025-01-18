@@ -20,3 +20,9 @@ Email: plankmathematics 'at' gmail 'dot' com
 [Orcid](https://orcid.org/0000-0002-2367-2892)
 
 [GitHub](https://github.com/lankp)
+
+
+
+
+
+*See [here](https://patlank.com/photos) for random photos for one of my favorite spots (can ya guess where?)*
