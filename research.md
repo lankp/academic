@@ -2,11 +2,11 @@
 layout: research
 title: "Research"
 ---
-- "Perfect complexes and proper descent for algebraic stacks" joint with [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), and [Alicia Lamarche](https://alicialamarche.com/about)
-- "Integral transforms on singularity categories for Noetherian schemes" joint with [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
-- "Mayer-Vietoris squares and generation for monoidal triangulated categories" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
-- "Compact objects detect big generators for weak approximable triangulated categories" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
-- "Regular locus and singularity categories for noncommutative algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)
+- "Perfect complexes and proper descent for algebraic stacks" joint with [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), and [Alicia Lamarche](https://alicialamarche.com/about), *in preparation*
+- "Integral transforms on singularity categories for Noetherian schemes" joint with [Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), *in preparation*
+- "Mayer-Vietoris squares and generation for monoidal triangulated categories" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), *in preparation*
+- "Compact objects detect big generators for weak approximable triangulated categories" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), *in preparation*
+- "Regular locus and singularity categories for noncommutative algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), *in preparation*
 - "Derived characterizations for rational pairs à la Schwede-Takagi and Kollár-Kovács" joint with [Peter McDonald](https://sites.google.com/view/petermcdonald/home) and [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh); [arXiv version](https://arxiv.org/abs/2501.02783) 
 - "Descent and generation for noncommutative coherent algebras over schemes" joint with [Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul); [arXiv version](https://arxiv.org/abs/2410.01785)
 - "Classification and nonexistence for t-structures on derived categories of schemes" joint with [Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul), and [Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756); [arXiv version](https://arxiv.org/abs/2404.08578)
