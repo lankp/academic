@@ -2,7 +2,7 @@
 layout: organization
 title: "Organization"
 ---
-- Alegbraic geometry seminar, Università degli Studi di Milano, Spring 2025
+- Algebraic geometry seminar, Università degli Studi di Milano, Spring 2025
 - Derived categories and noncommutative enthusiasts (D.A.N.C.E) online seminar from January 2025 to present
 - AMS special session on derived categories, arithmetic, and geometry at the JMM in [January 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title)
 - SCAGNT student seminar at the University of South Carolina
