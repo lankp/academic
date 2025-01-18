@@ -8,22 +8,22 @@ in preparation
 
 ---
 *Integral transforms on singularity categories for Noetherian schemes*  
-[Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)  
+[Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home), [Kabeer Manali Rahul](https://kabeermr.github.io/)  
 in preparation  
 
 ---
 *Mayer-Vietoris squares and generation for monoidal triangulated categories*     
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)      
+[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)      
 in preparation    
 
 ___
 *Compact objects detect big generators for weak approximable triangulated categories*   
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)   
+[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)   
 in preparation     
 
 ___
 *Regular locus and singularity categories for noncommutative algebras over schemes*   
-[Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)  
+[Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://kabeermr.github.io/)  
 in preparation   
 
 ___
@@ -37,7 +37,7 @@ ___
 
 ___
 *Descent and generation for noncommutative coherent algebras over schemes*   
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)  
+[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)  
 [arXiv version](https://arxiv.org/abs/2410.01785)  
 <details>
  <summary>Abstract </summary>
@@ -46,7 +46,7 @@ ___
 
 ___
 *Classification and nonexistence for t-structures on derived categories of schemes*   
-[Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul),[Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756)  
+[Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://kabeermr.github.io/),[Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756)  
 [arXiv version](https://arxiv.org/abs/2404.08578)  
 <details>
  <summary> Abstract </summary>
@@ -55,7 +55,7 @@ ___
 
 ___
 *Approximability and Rouquier dimension for noncommuative algebras over schemes*  
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://maths.anu.edu.au/people/kabeer-manali-rahul)  
+[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)  
 [arXiv version](https://arxiv.org/abs/2408.04561)  
 <details>
  <summary> Abstract </summary>
