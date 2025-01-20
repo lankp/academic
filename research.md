@@ -12,7 +12,7 @@ in preparation
 in preparation  
 
 ---
-*Mayer-Vietoris squares and generation for monoidal triangulated categories*     
+*Zariski descent for singularity categories*     
 [Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)      
 in preparation    
 
