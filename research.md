@@ -46,7 +46,7 @@ ___
 
 ___
 *Classification and nonexistence for t-structures on derived categories of schemes*   
-[Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://kabeermr.github.io/),[Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756)  
+[Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756)  
 [arXiv version](https://arxiv.org/abs/2404.08578)  
 <details>
  <summary> Abstract </summary>
