@@ -23,7 +23,7 @@ in preparation
 
 ___
 *Regular locus and singularity categories for noncommutative algebras over schemes*   
-[Timothy De Deyn](https://tdedeyn.github.io/) and [Kabeer Manali Rahul](https://kabeermr.github.io/)  
+[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)  
 in preparation   
 
 ___
