@@ -2,7 +2,7 @@
 layout: research
 title: "Research"
 ---
-*Perfect complexes and proper descent for algebraic stacks*  
+*Compact approximation and descent for algebraic stacks*  
 [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), [Alicia Lamarche](https://alicialamarche.com/about)  
 in preparation  
 
