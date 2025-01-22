@@ -111,6 +111,7 @@ ___
 
 ___
 *Descent conditions for generation in derived categories*  
+[arXiv version](https://arxiv.org/abs/2308.08080)
 [J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)  
 <details>
  <summary> Abstract </summary>
