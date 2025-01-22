@@ -111,8 +111,8 @@ ___
 
 ___
 *Descent conditions for generation in derived categories*  
-[arXiv version](https://arxiv.org/abs/2308.08080)
-[J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)  
+[arXiv version](https://arxiv.org/abs/2308.08080)   
+[J.Pure Appl. Algebra (2024)](https://doi.org/10.1016/j.jpaa.2024.107671)   
 <details>
  <summary> Abstract </summary>
    This work establishes a condition that determines when strong generation in the bounded derived category of a Noetherian J-2 scheme is preserved by the derived pushforward of a proper morphism. Consequently, we can produce upper bounds on the Rouquier dimension of the bounded derived category, and applications concerning affine varieties are studied. In the process, a necessary and sufficient constraint is observed for when a tensor-exact functor between rigidly compactly generated tensor triangulated categories preserves strong ⊕-generators.
