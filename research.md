@@ -66,6 +66,7 @@ ___
 *Triangulated characterizations of singularities*    
 [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
 [arXiv version](https://arxiv.org/abs/2405.04389)    
+accepted to Nagoya Math. J.
 <details>
  <summary> Abstract </summary>
    This work presents a range of triangulated characterizations for important classes of singularities such as derived splinters, rational singularities, and Du Bois singularities. An invariant called 'level' in a triangulated category can be used to measure the failure of a variety to have a prescribed singularity type. We provide explicit computations of this invariant for reduced Nagata schemes of Krull dimension one and for affine cones over smooth projective hypersurfaces. Furthermore, these computations are utilized to produce upper bounds for Rouquier dimension on the respective bounded derived categories.
