@@ -129,7 +129,7 @@ Souvik Dey, [Ryo Takahashi](https://www.math.nagoya-u.ac.jp/~takahashi/)
 
 ___
 *High Frobenius Pushforwards generate the bounded derived category*  
-[Matthew Ballard](https://www.matthewrobertballard.com/), [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/), [Alapan Mukhopadhyay](http://www-personal.umich.edu/~alapanm/), and [Josh Pollitz](https://www.joshpollitz.com/)  
+[Matthew Ballard](https://www.matthewrobertballard.com/), [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/), [Alapan Mukhopadhyay](http://www-personal.umich.edu/~alapanm/), [Josh Pollitz](https://www.joshpollitz.com/)  
 [arXiv version](https://arxiv.org/abs/2303.18085)  
 <details>
  <summary> Abstract </summary>
