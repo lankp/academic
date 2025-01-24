@@ -7,11 +7,6 @@ title: "Research"
 in preparation  
 
 ---
-*Integral transforms on singularity categories for Noetherian schemes*  
-[Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home), [Kabeer Manali Rahul](https://kabeermr.github.io/)  
-in preparation  
-
----
 *Zariski descent for singularity categories*     
 [Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)      
 in preparation    
@@ -25,6 +20,21 @@ ___
 *Regular locus and singularity categories for noncommutative algebras over schemes*   
 [Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)  
 in preparation   
+
+___
+*Integral transforms on singularity categories for Noetherian schemes*  
+[Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home), [Kabeer Manali Rahul](https://kabeermr.github.io/)  
+[arXiv version](https://arxiv.org/abs/2501.13834)  
+<details>
+ <summary> Abstract </summary>
+  This work studies conditions for which integral transforms induce exact
+functors on singularity categories between schemes that are proper over a
+Noetherian base scheme. A complete characterization for this behavior is
+provided, which extends earlier work of Ballard and Rizzardo. We leverage, as
+an application of Neeman's approximable triangulated categories, a description
+of the bounded derived category of coherent sheaves to reduce arguments to an
+affine local setting.
+</details>
 
 ___
 *Derived characterizations for rational pairs à la Schwede-Takagi and Kollár-Kovács*   
