@@ -2,6 +2,11 @@
 layout: research
 title: "Research"
 ---
+*Regularity and classification of t-structures for algebraic stacks*  
+[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171)  
+in preparation   
+
+---
 *Compact approximation and descent for algebraic stacks*  
 [Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171), [Alicia Lamarche](https://alicialamarche.com/about)  
 in preparation  
