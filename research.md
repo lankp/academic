@@ -2,7 +2,7 @@
 layout: research
 title: "Research"
 ---
-*Regularity and classification of t-structures for algebraic stacks*  
+*Regularity and t-structures for algebraic stacks*  
 [Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Fei Peng](https://algebraicgeometry.science.unimelb.edu.au/#tab171)  
 in preparation   
 
